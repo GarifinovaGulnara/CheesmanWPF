@@ -1,8 +1,6 @@
-﻿//Гарифинова Гульнара 221 гр
+﻿using System;
 
-using System;
-
-class Program
+class ConsoleApp
 {
     static void Main()
     {
