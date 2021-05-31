@@ -5,13 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AppCheesWPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid Margin="223,98,-223,-98">
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="197*"/>
-            <ColumnDefinition Width="159*"/>
-            <ColumnDefinition Width="444*"/>
-        </Grid.ColumnDefinitions>
+        Title="MainWindow" Height="680" Width="680">
+    <Grid>
 
     </Grid>
 </Window>
