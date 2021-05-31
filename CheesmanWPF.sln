@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheesmanWPF", "CheesmanWPF\CheesmanWPF.csproj", "{E397C32C-530E-465D-9F30-BC995911D23E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheesmanConsole", "CheesmanWPF\CheesmanConsole.csproj", "{E397C32C-530E-465D-9F30-BC995911D23E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCheesWPF", "AppCheesWPF\AppCheesWPF.csproj", "{C97BC176-EE53-4A0F-BF27-D003FD002427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{F0A75F02-3417-4343-A0F9-E6DE14AD186C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E397C32C-530E-465D-9F30-BC995911D23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E397C32C-530E-465D-9F30-BC995911D23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E397C32C-530E-465D-9F30-BC995911D23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C97BC176-EE53-4A0F-BF27-D003FD002427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C97BC176-EE53-4A0F-BF27-D003FD002427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C97BC176-EE53-4A0F-BF27-D003FD002427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C97BC176-EE53-4A0F-BF27-D003FD002427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A75F02-3417-4343-A0F9-E6DE14AD186C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A75F02-3417-4343-A0F9-E6DE14AD186C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A75F02-3417-4343-A0F9-E6DE14AD186C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A75F02-3417-4343-A0F9-E6DE14AD186C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
